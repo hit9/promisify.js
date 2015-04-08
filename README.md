@@ -10,6 +10,13 @@ Promise implementations, e.g.
 global.Promise = require('bluebird').Promise;
 ```
 
+Instal
+------
+
+```
+npm install promisify.js
+```
+
 Example
 -------
 
